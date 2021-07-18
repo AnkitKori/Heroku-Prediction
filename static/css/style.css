@@ -1,0 +1,12 @@
+body{
+  background-image:url{https://www.nosm.ca/wp-content/uploads/2018/06/HeartDoctor-Background.jpg);
+  background-size:cover;
+  background-attachment: fixed;
+}
+.content{
+    background:white;
+    width: 50%;
+    padding:40px;
+    margin: 100px auto;
+}
+
